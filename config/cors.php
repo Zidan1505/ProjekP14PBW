@@ -5,7 +5,7 @@ return [
     'allowed_methods' => ['*'],
     'allowed_origins' => [
         'http://localhost:5173', 
-        'https://projek-p14-pbw-frontend.vercel.app/' 
+        'https://projek-p14-pbw-frontend.vercel.app' 
     ],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
