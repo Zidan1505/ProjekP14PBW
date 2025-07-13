@@ -4,8 +4,8 @@ return [
     'paths' => ['api/*', 'sanctum/csrf-cookie', 'login', 'logout'],
     'allowed_methods' => ['*'],
     'allowed_origins' => [
-        'http://localhost:5173', // Untuk development lokal
-        'https://URL_VERCEL_ANDA'    // GANTI DENGAN URL VERCEL ANDA
+        'http://localhost:5173', 
+        'https://projek-p14-pbw-frontend.vercel.app/' 
     ],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
